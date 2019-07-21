@@ -1003,6 +1003,7 @@ h2.title strong{
     margin-bottom: 0;
     font-weight: 400;
     line-height: 25px;
+    color: white;
 }
 .featured-item .content-post h2.title-post a:hover,
 .featured-item .content-post .category a:hover{
