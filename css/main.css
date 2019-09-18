@@ -984,7 +984,7 @@ ul li .icon-box.icon-style-border i{
     position: relative;
 }
 .site-branding img {
-    max-height: 45px;
+  max-width: 240px;
 }
 
 /** SiteNavigation(Menu) **/
@@ -1301,7 +1301,7 @@ ul li .icon-box.icon-style-border i{
 }
 .second-footer .widget-area:first-child .social-icons li:last-child>a{ padding-left: 0; }
 .footer-logo img{
-    height: 45px;
+    max-width: 240px;
     width: auto;
 }
 .widget ul.widget-contact{
